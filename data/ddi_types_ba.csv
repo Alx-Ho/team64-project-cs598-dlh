@@ -1,0 +1,14 @@
+type,structure
+3,The absorption of Drug b can be decreased when combined with Drug a.
+4,The bioavailability of Drug b can be decreased when combined with Drug a.
+5,The bioavailability of Drug b can be increased when combined with Drug a.
+6,The metabolism of Drug b can be decreased when combined with Drug a.
+7,The metabolism of Drug b can be increased when combined with Drug a.
+8,The protein binding of Drug b can be decreased when combined with Drug a.
+9,The serum concentration of Drug b can be decreased when it is combined with Drug a.
+10,The serum concentration of Drug b can be increased when it is combined with Drug a.
+13,The therapeutic efficacy of Drug b can be decreased when used in combination with Drug a.
+14,The therapeutic efficacy of Drug b can be increased when used in combination with Drug a.
+25,The risk of a hypersensitivity reaction to Drug b is increased when it is combined with Drug a.
+28,The risk or severity of heart failure can be increased when Drug b is combined with Drug a.
+30,The risk or severity of hypertension can be increased when Drug b is combined with Drug a.
